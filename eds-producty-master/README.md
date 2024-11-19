@@ -1,16 +1,13 @@
-# myapp
+# Flutter Productivity App
 
-A new Flutter project.
+A Flutter-based productivity application with a modern UI and smooth transitions.
 
-## Getting Started
+## Features Implemented
 
-This project is a starting point for a Flutter application.
+- Custom Splash Screen with animations
+- Authentication Screen with modern design
+- Theme configuration with Material 3 support
+- Custom font integration (GTWalsheim)
+- Smooth screen transitions
+- Responsive layout design
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
